@@ -26,7 +26,27 @@ Within this repository the data is provided in compressed zip format, where the 
 
 [averageSpeeds_NorthEast_171223to090124.zip](data/NorthEast/averageSpeeds_NorthEast_171223to090124.zip)
 
+[averageSpeeds_NorthEast_100124to310124.zip](data/NorthEast/averageSpeeds_NorthEast_100124to310124.zip)
+
+[averageSpeeds_NorthEast_010224to290224.zip](data/NorthEast/averageSpeeds_NorthEast_010224to290224.zip)
+
+[averageSpeedsNorthEast_010324to310324.zip](data/NorthEast/averageSpeeds_NorthEast_010324to310324.zip)
+
+[averageSpeedsNorthEast_010424to300424.zip](data/NorthEast/averageSpeeds_NorthEast_010424to300424.zip)
+
+[averageSpeedsNorthEast_010524to070524.zip](data/NorthEast/averageSpeeds_NorthEast_010524to070524.zip)
+
 [distinctJourneyCounts_NorthEast_171223to091024.zip](data/NorthEast/distinctJourneyCounts_NorthEast_171223to091224.zip)
+
+[distinctJourneyCounts_NorthEast_100124to310124.zip](data/NorthEast/distinctJourneyCounts_NorthEast_100124to310124.zip)
+
+[distinctJourneyCounts_NorthEast_010224to290224.zip](data/NorthEast/distinctJourneyCounts_NorthEast_010224to290224.zip)
+
+[distinctJourneyCounts_NorthEast_010324to310324.zip](data/NorthEast/distinctJourneyCounts_NorthEast_010324to310324.zip)
+
+[distinctJourneyCounts_NorthEast_010424to300424.zip](data/NorthEast/distinctJourneyCounts_NorthEast_010424to300424.zip)
+
+[distinctJourneyCounts_NorthEast_010524to070524.zip](data/NorthEast/distinctJourneyCounts_NorthEast_010524to070524.zip)
 
 ## Example Usage
 
@@ -96,7 +116,7 @@ This produces the following visualisation:
 
 ## Time frames
 
-Data are currently available at an hourly level of resolution from 27th October 2023 to 8th January 2024 in the case of London and from 17th December 2023 to 8th January 2024 in the case of the bounding box in the North East.
+Data are currently available at an hourly level of resolution from 27th October 2023 to 8th January 2024 in the case of London and from 17th December 2023 to 7th May 2024 in the case of the bounding box in the North East.
 
 ## Bounding boxes
 
