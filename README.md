@@ -2,7 +2,7 @@
 
 This repository contains raster data captured via the [DfT Bus Open Data Service](https://www.bus-data.dft.gov.uk/).
 
-The data is provided in GeoTIFF file format for different areas, comprised of bounding boxes defined by Longitude and Latitude, for hourly time periods at a spatial resolution of 50 metres.
+The data is provided in GeoTIFF file format for different areas comprised of bounding boxes defined by longitude and latitude for hourly time periods at a spatial resolution of 50 metres.
 
 There are two types of data available in raster format:
 
