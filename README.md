@@ -26,6 +26,10 @@ Within this repository the data is provided in compressed zip format, where the 
 
 [averageSpeeds_London_010324to310324.zip](data/London/averageSpeeds_London_010324to310324.zip)
 
+[averageSpeeds_London_010424to300424.zip](data/London/averageSpeeds_London_010424to300424.zip)
+
+[averageSpeeds_London_010524to080524.zip](data/London/averageSpeeds_London_010524to080524.zip)
+
 [distinctJourneyCounts_London_271023to080124.zip](data/London/distinctJourneyCounts_London_271023to080124.zip)
 
 [distinctJourneyCounts_London_090124to310124.zip](data/London/distinctJourneyCounts_London_010224to290224.zip)
@@ -33,6 +37,10 @@ Within this repository the data is provided in compressed zip format, where the 
 [distinctJourneyCounts_London_010224to290224.zip](data/London/distinctJourneyCounts_London_010224to290224.zip)
 
 [distinctJourneyCounts_London_010324to310324.zip](data/London/distinctJourneyCounts_London_010324to310324.zip)
+
+[distinctJourneyCounts_London_010424to300424.zip](data/London/distinctJourneyCounts_London_010424to300424.zip)
+
+[distinctJourneyCounts_London_010524to080524.zip](data/London/distinctJourneyCounts_London_010524to080524.zip)
 
 ### North East
 
@@ -128,7 +136,7 @@ This produces the following visualisation:
 
 ## Time frames
 
-Data are currently available at an hourly level of resolution from 27th October 2023 to 31st March 2024 in the case of London and from 17th December 2023 to 7th May 2024 in the case of the bounding box in the North East.
+Data are currently available at an hourly level of resolution from 27th October 2023 to 8th May 2024 in the case of London and from 17th December 2023 to 7th May 2024 in the case of the bounding box in the North East.
 
 ## Bounding boxes
 
